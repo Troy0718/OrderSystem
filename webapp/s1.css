@@ -1,0 +1,35 @@
+@charset "BIG5";
+.header
+{
+	width:50%;
+	height:120px;
+	margin-left:25%;
+	background-color:#A09E61;
+	color:white;
+	font-size:30px;	
+	padding-top:30px;
+	text-align:center;
+
+	
+	
+}
+.content
+{
+	width:50%;
+	height:400px;
+	margin-left:25%;
+	background-color:#DDDDC7;
+	
+	
+}
+.footer
+{
+	width:50%;
+	height:80px;
+	margin-left:25%;
+	background-color:#A09E61;
+	color:white;
+	font-size:18px;
+	padding-top:20px;
+	text-align:center;
+}
